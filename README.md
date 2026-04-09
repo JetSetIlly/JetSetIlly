@@ -1,4 +1,4 @@
-### Atari2600 Utilities
+### Atari2600 Emulators & Utilities
 
 https://github.com/JetSetIlly/Gopher2600
 
@@ -16,9 +16,14 @@ https://github.com/JetSetIlly/Atari2600-Flappy-Bird
 
 https://github.com/JetSetIlly/Adventureland-2600
 
-### Atari7800 Utilities
+### Atari7800 Emulator
 
 https://github.com/JetSetIlly/test7800
+
+### Amiga Utilities
+
+https://github.com/JetSetIlly/Epigrams
+https://github.com/JetSetIlly/Direwall
 
 
 <!--
